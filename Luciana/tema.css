@@ -1,0 +1,14 @@
+body{
+    background-image: url("../Luciana/img/fondito.png") ;
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.card-img-top{
+    width:100%;
+    height: 400px;
+}
